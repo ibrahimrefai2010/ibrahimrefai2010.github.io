@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    padding-top: 5%;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+    margin: 0;
+    height: 100vh;
+    background-color: #f3f3f3;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.paragraph {
+    text-align: justify;
+    text-justify: inter-word;
+    width: 80%;
+    height: fit-content;
+    position: absolute;
+    left: 50%;
+    font-size: 1.4rem;
+    transform: translateX(-50%);
+}
+
+.backbtn {
+    background-color: #00f2a1;
+    font-size: 1.6rem;
+    width: 100px;
+    font-weight: 600;
+    color: white;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+}
+
+body {
+  overflow: hidden;
+}
