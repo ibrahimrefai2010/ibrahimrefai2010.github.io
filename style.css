@@ -4,6 +4,20 @@ body {
     height: 100vh;
     background-color: #f3f3f3;
 }
+.backbtn {
+    background-color: #00f2a1;
+    font-size: 1.6rem;
+    width: 100px;
+    font-weight: 600;
+    color: white;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    position: absolute;
+    left: 4px;
+    top: 4px;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+}
 
 .title_container {
     position: absolute;
