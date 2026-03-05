@@ -41,6 +41,20 @@ img.emoji {
     position: relative;
     bottom: 117px;
 }
+.video_btn {
+    position: relative;
+    bottom: 88px;
+    background-color: #00f2a1;
+    font-size: 1.3rem;
+    width: 200px;
+    font-weight: 600;
+    color: white;
+    height: 30px;
+    margin-top: 6px;
+    border-radius: 13px;
+    border: none;
+    font-family: "IBM Plex Sans Arabic", sans-serif;
+}
 
 .line {
     background-color: #00f2a1;
